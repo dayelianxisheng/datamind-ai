@@ -111,7 +111,6 @@ datasets/sales.csv        合成演示数据
 compose.yaml              MySQL
 docs/demo-design.md       Demo 设计与验收标准
 docs/team-development.md  三人分工、Git 规则与路线图
-docs/feature-collaboration-demo.md  新功能三人协作演练
 docs/member-handoff.md    可直接转发的新成员交接说明
 ```
 
